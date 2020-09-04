@@ -13,7 +13,7 @@ labels:
 summary: My final project group created a game where you collect the right amount of coins but also avoid meteors.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/finalproject.png">
   <img class="ui image" src="../images/finalproject1.png">
   <img class="ui image" src="../images/finalproject2.png">
