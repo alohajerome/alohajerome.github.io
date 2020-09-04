@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/IMG_4506.JPG
 title: Musician by chance
 permalink: projects/musician
 # All dates must be YYYY-MM-DD format!
