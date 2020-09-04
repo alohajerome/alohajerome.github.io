@@ -14,7 +14,7 @@ labels:
 summary: The commitment towards being a musician
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Band.pdf">
 
 The first time I ever picked up an instrument was in middle school in the year 2012. 
 
