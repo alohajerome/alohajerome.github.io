@@ -106,43 +106,36 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "St. Michaels Chruch",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Catholic Youth Group",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-05",
+      "summary": "Assistant teacher for Sunday School",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Helped younger students understand the Catholic Religion",
+        "Served as an Alter Boy from 2014-2016"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2018",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Turtle Bay Scholarship",
+      "date": "2018-2019",
+      "awarder": "Turtle Bay Resort",
+      "summary": "I was awarded $500 my first time entering in the scholarship. The second time I was awarded $1500 for entering the scholarship"
+    },
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "2018",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "I was awarded $2,000 from FAFSA, Students who plan to achieve a bachelors degree while being enrolled as a half-time student or better"
     }
   ],
   "references": [
