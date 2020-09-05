@@ -51,26 +51,24 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Operating Systems/Applications",
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows10",
+        "Eclipse",
+        "Terminal",
+        "JSFiddle"
       ]
     }
   ],
@@ -79,24 +77,30 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.06",
       "courses": [
+        "ICS Lower Division: 111,141,211,241",
+        "ICS 212: Data Sructures",
+        "Calculus 1 & 2 (241,242)",
+        "General Physics 1 & 2 (151, 152)",
+        "General Chemistry 1 & 2 (161, 162)",
+        "ICS Upper Division: MATH 307: Linear Algebra & Differential Equations"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "YMCA Camp Erdman",
+      "position": "Food Service",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-05-26",
+      "endDate": "2018-06-20",
+      "summary": "Worked in the kitchen to prep meals for all the children",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Interact with all the children and counselors",
+        "Serve meals to the children that were put in Summer Camp"
       ]
     },
     {
