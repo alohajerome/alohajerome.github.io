@@ -28,14 +28,14 @@ The first step in creating this game involved coding the right background for th
 Here is some of the code I created to make this game functional:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+  // Constructor that takes in the image filename, the x, and y position,
+	// and initializes the coins at random positions
+	Coin(String filename, int coinX, int coinY) {
+		randomGenerator = new Random();
+		y = randomGenerator.nextInt(768);
+		x = coinX;
+		speed = randomGenerator.nextInt(3);
+		coin = EZ.addImage(filename, coinX, coinY);
 }
 ```
 
