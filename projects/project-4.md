@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/morse-code.jpg
+image: images/manoaeatshome.png
 title: Manoa Eats 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
