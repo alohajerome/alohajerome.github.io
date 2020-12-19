@@ -14,13 +14,12 @@ labels:
 summary: An application that my group designed to help students find different types of foods on campus
 ---
 
-<img class="ui image" src="../images/morse-code.jpg">
+<img class="ui image" src="../images/manoaeatshome.png">
 
 ## What is Manoa Eats
 
 Manoa Eats is a web application that targets all students and faculty of UH Manoa who are craving food but do not know what is available. You are given the ability to search for what vendors are on campus while also looking at what types of Entrée is available. I worked with Christine Guira, Yeji Han, and Marjorie Raquiz on developing this project. 
 
-<img class="ui small right floated rounded image" src="../images/morse.jpg">
  
 ## Interested in Manoa Eats? 
 
@@ -32,15 +31,15 @@ You can also take a look at our source code if you are interested on how we deve
 
 One feature that I was able to produce was the filter function on our home page.
 
-<img class="ui small image" src="../images/morse-code.jpg">
+<img class="ui small image" src="../images/manoaeatsfilter.png">
 
 All users are able to select certain cuisine that they are interested in and it will show you where you can get them from.
 
 Another feature I was able to produce is the Admin Page. Admins are able to look at all the vendors and be able to delete or edit them without any verification. Admins are given a list of registered user on the web application. However, only registered admins have the ability to use this.
 
-<img class="ui small image" src="../images/morse-code.jpg">
+<img class="ui small image" src="../images/manoaeatsadmin.png">
 
-<img class="ui small image" src="../images/morse-code.jpg">
+<img class="ui small image" src="../images/manoaeatsadmin2.png">
 
 
 ## What I've learned
