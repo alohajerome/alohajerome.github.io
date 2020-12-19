@@ -31,15 +31,15 @@ You can also take a look at our source code if you are interested on how we deve
 
 One feature that I was able to produce was the filter function on our home page.
 
-<img class="ui medium image" src="../images/manoaeatsfilter.png">
+<img class="ui large image" src="../images/manoaeatsfilter.png">
 
 All users are able to select certain cuisine that they are interested in and it will show you where you can get them from.
 
 Another feature I was able to produce is the Admin Page. Admins are able to look at all the vendors and be able to delete or edit them without any verification. Admins are given a list of registered user on the web application. However, only registered admins have the ability to use this.
 
-<img class="ui medium image" src="../images/manoaeatsadmin.png">
+<img class="ui large image" src="../images/manoaeatsadmin.png">
 
-<img class="ui medium image" src="../images/manoaeatsadmin2.png">
+<img class="ui large image" src="../images/manoaeatsadmin2.png">
 
 
 ## What I've learned
