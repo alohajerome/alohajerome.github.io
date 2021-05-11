@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landingShocking.png
 title: Shocking Developments 
-permalink: projects/shockingDevelop
+permalink: projects/shockingDevelops
 # All dates must be YYYY-MM-DD format!
 date: 2021-5-10
 labels:
