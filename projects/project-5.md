@@ -15,7 +15,7 @@ labels:
 summary: An application that allows people to create and log their choices of transportation everyday to analyze how much GHG (Green House Gases) emissions they've produced.
 ---
 
-<img class="ui image" src="../images/manoaeatshome.png">
+<img class="ui image" src="../images/landingPageM4.png">
 
 ## Reflecting back on ICS 414 Software Engineering II
 
