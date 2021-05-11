@@ -23,9 +23,9 @@ ICS 414 Software Engineering II expands our knowledge on developing a working we
  
 ## Interested in Shocking Developments Application? 
 
-If you want to learn more about all the features in our application  you can go <a href="https://shocking-development.github.io/">here</a>.
+Here is our github website: <a href="https://shocking-development.github.io/">here</a>.
 
-You can also take a look at our source code if you are interested on how we developed it: <a href="https://github.com/shocking-development/shockingdevelopment">Shocking Development</a>.
+Here is our github repository: <a href="https://github.com/shocking-development/shockingdevelopment">Shocking Development</a>.
  
 ## Contribution to Shocking Development
 
