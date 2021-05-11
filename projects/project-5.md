@@ -15,7 +15,7 @@ labels:
 summary: An application that allows people to create and log their choices of transportation everyday to analyze how much GHG (Green House Gases) emissions they've produced.
 ---
 
-<img class="ui image" src="../images/landingPageM4.png">
+<img class="ui medium image" src="../images/landingPageM4.png">
 
 ## The class in review
 
