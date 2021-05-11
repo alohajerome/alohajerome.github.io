@@ -29,7 +29,7 @@ Here is our github repository: <a href="https://github.com/shocking-development/
 
 One feature that I was able to produce was the admin page for registered administrators.
 
-<img class="ui big image" src="../images/manoaeatsfilter.png">
+<img class="ui big image" src="../images/adminPage.png">
 
 Admin Users were able to view all registered users. They also have the ability to delete an account if a user wants it to be deleted. 
 
