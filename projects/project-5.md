@@ -41,6 +41,7 @@ Overall this project required our whole group to be on the same page every time 
 ## What I've learned
 
 Looking back at the first day of ICS 414, I had some doubts on how I would be able to improve my software developing skills. However, there were a lot of things that I've learned throughout the semester. 
+
 -One thing that I learned during the development of the application was how important it was to be organized on commiting your code into the master branch. Usually when you work alone on a project, you won't need to worry about issues when merging your code into github. But, when you have a group of more than 5 people, it becomes more complicated. You would need to notify every team member that your are going to merge your issue into the main branch. If a student merged an issue at same time as another student, that would cause confusion and a lot of frustration. Which no one wants in software development.  
 -A skill that required everyone to have was: Communication. We all know that communication is the key to a successful experience. But, it gets difficult when all the work is being done online. For me, I strive when I talk to a group in person because it allows me to observe their reaction to ideas that I propose. Since this class was completely online we decided the next best thing was to create a discord server which acted as "Headquarters" for our group. This gave us the option to have specific days of when we can meet. For this project my group met every Wednesday and Sunday to recap and summarize what we have been working on recently. 
 
