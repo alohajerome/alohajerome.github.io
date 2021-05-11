@@ -2,50 +2,47 @@
 layout: project
 type: project
 image: images/manoaeatshomecropped.png
-title: Manoa Eats 
+title: Shocking Developments 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-16
+date: 2021-5-10
 labels:
   - Javascript
   - Meteor
   - Semantic UI React
-  - IDPM 
-summary: An application that my group designed to help students find different types of foods on campus
+  - IDPM
+  - Software Engineering 
+summary: An application that allows people to create and log their choices of transportation everyday to analyze how much GHG (Green House Gases) emissions they've produced.
 ---
 
 <img class="ui image" src="../images/manoaeatshome.png">
 
-## What is Manoa Eats
+## Recap of ICS 414 Software Engineering II
 
-Manoa Eats is a web application that targets all students and faculty of UH Manoa who are craving food but do not know what is available. You are given the ability to search for what vendors are on campus while also looking at what types of Entrée is available. I worked with Christine Guira, Yeji Han, and Marjorie Raquiz on developing this project. 
-
+ICS 414 Software Engineering II expands our knowledge on developing a working website that can be used for normal day use. We collaborated with Hawaii Electric Industries on creating a working application that focuses on Green House Gases (GHG). Our group of about 7 students, called "Shocking Development" created a simple application that lets registered users log their choice of transportation everyday, which shows the user how much money they can save if they used different transportation rather than just driving to work. 
  
-## Interested in Manoa Eats? 
+## Interested in Shocking Developments Application? 
 
-If you want to learn more about all the features in ManoaEats you can go <a href="https://manoaeats.github.io/">here</a>.
+If you want to learn more about all the features in our application  you can go <a href="https://shocking-development.github.io/">here</a>.
 
-You can also take a look at our source code if you are interested on how we developed it: <a href="https://github.com/manoaeats/manoaeats">Manoa Eats</a>.
+You can also take a look at our source code if you are interested on how we developed it: <a href="https://github.com/shocking-development/shockingdevelopment">Shocking Development</a>.
  
-## My Contribution to Manoa Eats
+## Contribution to Shocking Development
 
-One feature that I was able to produce was the filter function on our home page.
+One feature that I was able to produce was the admin page for registered administrators.
 
 <img class="ui big image" src="../images/manoaeatsfilter.png">
 
-All users are able to select certain cuisine that they are interested in and it will show you where you can get them from.
+Admin Users were able to view all registered users. They also have the ability to delete an account if a user wants it to be deleted. 
 
-Another feature I was able to produce is the Admin Page. Admins are able to look at all the vendors and be able to delete or edit them without any verification. Admins are given a list of registered user on the web application. However, only registered admins have the ability to use this.
-
-<img class="ui big image" src="../images/manoaeatsadmin.png">
-
-<img class="ui big image" src="../images/manoaeatsadmin2.png">
+Overall this project required our whole group to be on the same page every time we met. Every person in our group had the ability to collaborate with one another which helped tremendously because I believe we wouldn't have gotten everything done without our teammates helping each other. 
 
 
 ## What I've learned
 
-First and foremost this project was very difficult and required a lot of time. Working on a project completely online required so much patience because of the fact that we couldn't really compare each others code if there was an issue. I've learned that you have to work with what you've got. You're basically wasting more time complaining on what you don't have rather than utilizing your time to improve your project. Overall I'd say this was a rollercoaster of emotions especially since we are still in a time of a pandemic. If I had the chance to start from the beginning, I would have wanted to start on it earlier so that we have more time to adjust some minor things in our project. 
-
+Looking back at the first day of ICS 414, I had some doubts on how I would be able to improve my software developing skills. However, there were a lot of things that I've learned throughout the semester. 
+-One thing that I learned during the development of the application was how important it was to be organized on commiting your code into the master branch. Usually when you work alone on a project, you won't need to worry about issues when merging your code into github. But, when you have a group of more than 5 people, it becomes more complicated. You would need to notify every team member that your are going to merge your issue into the main branch. If a student merged an issue at same time as another student, that would cause confusion and a lot of frustration. Which no one wants in software development.  
+-A skill that required everyone to have was: Communication. We all know that communication is the key to a successful experience. But, it gets difficult when all the work is being done online. For me, I strive when I talk to a group in person because it allows me to observe their reaction to ideas that I propose. Since this class was completely online we decided the next best thing was to create a discord server which acted as "Headquarters" for our group. This gave us the option to have specific days of when we can meet. For this project my group met every Wednesday and Sunday to recap and summarize what we have been working on recently. 
 
 
 
