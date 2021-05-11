@@ -17,7 +17,7 @@ summary: An application that allows people to create and log their choices of tr
 
 <img class="ui image" src="../images/manoaeatshome.png">
 
-## Recap of ICS 414 Software Engineering II
+## Reflecting back on ICS 414 Software Engineering II
 
 ICS 414 Software Engineering II expands our knowledge on developing a working website that can be used for normal day use. We collaborated with Hawaii Electric Industries on creating a working application that focuses on Green House Gases (GHG). Our group of about 7 students, called "Shocking Development" created a simple application that lets registered users log their choice of transportation everyday, which shows the user how much money they can save if they used different transportation rather than just driving to work. 
  
